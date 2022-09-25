@@ -1,3 +1,4 @@
+#already fixed?
 def get_airspeed_velocity_of(unladen_swallow):
   if unladen_swallow.type == "african":
     return # redacted
